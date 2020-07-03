@@ -1,9 +1,15 @@
 # UdemyCrawler
 A Crawler for Udemy courses.
 
-<center>Introduction: What is Udemy?</center>
+## General Info:
+This Crawler aims to record all information about each course of a searched term. The information is saved in a .csv file and can be analyzed by you.
 
-Udemy is an courses platform created on 2009. This platform allows any user to create a course. 
+## Technologies
+This project is created with:
+* Python 3.8
+* Selenium
+* Chrome Driver 
 
-What does this crawler do?
-Basically, it uses Web Elements to obtain informations about a determined course and store it in a csv file. Furthermore, it is made using selenium and python.
+Notes: 
+* you need to have google chrome installed
+* The Chrome Driver version depends on the version of your Google Chrome
