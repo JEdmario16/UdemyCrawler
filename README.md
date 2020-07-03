@@ -11,5 +11,5 @@ This project is created with:
 * Chrome Driver 
 
 Notes: 
-* you need to have google chrome installed
-* The Chrome Driver version depends on the version of your Google Chrome
+* You need to have google chrome installed
+* The version of the Chrome driver depends on the version of your Google Chrome. For more information, visit: https://chromedriver.chromium.org/downloads
